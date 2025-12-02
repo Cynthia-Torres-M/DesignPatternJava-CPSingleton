@@ -1,7 +1,3 @@
-Aquí tienes el **README.md** en formato **Markdown**, listo para copiar y pegar en tu proyecto Maven del patrón Singleton.
-
----
-
 # 🟦 Patrón de Diseño Singleton en Java
 
 Proyecto Maven con ejemplo en consola
